@@ -12,8 +12,8 @@ global.APIKeys = {
 }
 
 
-global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '94774579505'
+global.OWNER_REACT = '🧩'
+global.REACT_NUMBER = '989935689926'
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -23,7 +23,7 @@ global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
-global.vidmenu = fs.readFileSync("./XeonMedia/theme/Cheems-bot.mp4") //gif and video menu
+global.vidmenu = fs.readFileSync(".https://i.imgur.com/SJUC8BB.mp4) //gif and video menu
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -34,22 +34,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94774579505'] //ur owner number
-global.ownername = "🎸 KAVEESHA " //ur owner name
-global.ytname = "YT: Nero" //ur yt chanel name
-global.socialm = "GitHub: Nero" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['989935689926'] //ur owner number
+global.ownername = "𝗘𝗭𝗜𝗢" //ur owner name
+global.ytname = "YT: 𝗪𝗛𝗔𝗧?" //ur yt chanel name
+global.socialm = "GitHub: 𝗛𝗘𝗬" //ur github or insta name
+global.location = "𝗢𝗞" //ur location
 
 //bot bomdy 
-global.owner = ['774579505']
-global.ownertag = '774579505' //ur tag number
-global.botname = '✫ ✫ ✫𝙳𝙰𝚁𝙺 𝙽𝙴𝚁𝙾✫ ✫ ✫' //ur bot name
-global.linkz = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
-global.websitex = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //ur website to be displayed
-global.botscript = 'https://github.com/Kaveeshasithum/DARK-NERO-BOT.git' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🎸" //ur theme emoji
-global.packname = "Nero Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.owner = ['989935689926']
+global.ownertag = 'wa.me/989935689926' //ur tag number
+global.botname = '𝗘𝗭𝗜𝗢 𝗕𝗢𝗧 𝗪𝗠-3' //ur bot name
+global.linkz = "𝗢𝗞" //your theme url which will be displayed on whatsapp
+global.websitex = "𝗢𝗞" //ur website to be displayed
+global.botscript = '𝗘𝗭𝗜𝗢' //script link
+global.reactmoji = "🪐" //ur menu react emoji
+global.themeemoji = "🪐" //ur theme emoji
+global.packname = "𝕰𝐙𝐈𝕺 ╏𝕸 × 𝐙╏ 𝐇𝕬𝕮𝐊" //ur sticker watermark packname
 global.author = "Kaveesha sithum" //ur sticker watermark author
 
 //Bot theme media
@@ -59,7 +59,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['774579505'] //ur premium numbers
+global.premium = ['989935689926'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -86,14 +86,14 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin! 🇱🇰',
-    botAdmin: 'Bot Must Be Admin First! 🇱🇰',
-    owner: 'This Feature Is Only For Owner! 🇱🇰',
-    group: 'Feature Used Only For Groups! 🇱🇰',
-    private: 'Features Used Only For Private Chat! 🇱🇰',
-    bot: 'This Feature Is Only For Bot 🇱🇰',
-    wait: 'In wait 🇱🇰',
-    linkm: 'Where is the link? 🇱🇰',
+    admin: 'This Feature Is Only For Admin!🪐',
+    botAdmin: 'Bot Must Be Admin First! 🪐',
+    owner: 'This Feature Is Only For Owner! 🪐',
+    group: 'Feature Used Only For Groups!🪐',
+    private: 'Features Used Only For Private Chat! 🪐',
+    bot: 'This Feature Is Only For Bot 🪐',
+    wait: 'In wait 🪐',
+    linkm: 'Where is the link? 🪐',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
